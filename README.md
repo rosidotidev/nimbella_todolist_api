@@ -1,5 +1,6 @@
 # nimbella todolist serverless api
-Nimbella API required to axpose CRUD services (using Redis as NoSql DB)
+Nimbella API required to expose CRUD services (using Redis as NoSql DB)
+<br/>
 Once installed Nimbella platform you can use these commands in order to create all required actions
 <br/>
 cd <path_to_api_directory> <br/>
