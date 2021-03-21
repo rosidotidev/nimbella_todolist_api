@@ -22,7 +22,7 @@ def main(args):
     to_update=search_item(key)
     print(to_update)
     if to_update==None:
-      return {"body":{"response":{"result":"error","description":"item not present"}}}
+      return {"body":{"response":{"result":"error","description":"item not found"}}}
 
     value = json.dumps({
     "item": item,
